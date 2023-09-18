@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranjal.
-- 👀 I’m interested in coding.
+- 👀 I’m interested in competitive coding.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me pranjalvyas45@gmail.com
 
