@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b1f789b-897b-434d-93e1-2dab6d041839)# 💫 About Me:
+# 💫 About Me:
 - 👋 Hi, My name is Pranjal.
 - 👀 I’m interested in competitive coding.
 - 🌱 I’m currently learning web development.
