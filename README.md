@@ -36,8 +36,6 @@
   <img width="15" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="50" alt="nestjs logo"  />
-  <img width="15" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="50" alt="nginx logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
