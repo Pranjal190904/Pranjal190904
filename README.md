@@ -1,4 +1,4 @@
-# 💫 About Me:
+![image](https://github.com/user-attachments/assets/0b1f789b-897b-434d-93e1-2dab6d041839)# 💫 About Me:
 - 👋 Hi, My name is Pranjal.
 - 👀 I’m interested in competitive coding.
 - 🌱 I’m currently learning web development.
@@ -68,7 +68,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal190904&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pranjal190904&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Pranjal190904&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 <!---
 Pranjal190904/Pranjal190904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
