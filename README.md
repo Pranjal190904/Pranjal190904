@@ -62,11 +62,12 @@
   </a>
 </div>
 
-
+<!---
 # Github Activity Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjal190904&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+--->
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranjal190904&limit=5&theme=dark&combine_all_yearly_contributions=true)
